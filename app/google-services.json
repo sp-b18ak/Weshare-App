@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973368530481",
+    "project_id": "weshare-3ecf1",
+    "storage_bucket": "weshare-3ecf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973368530481:android:fe3c7595a142e6946ea710",
+        "android_client_info": {
+          "package_name": "com.example.weshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973368530481-nmq8fmloo8dgdcoposrgdbuofnstv5mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB97UIZhHs_MD6a1mywNZGpX9n13zF-Njk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973368530481-nmq8fmloo8dgdcoposrgdbuofnstv5mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

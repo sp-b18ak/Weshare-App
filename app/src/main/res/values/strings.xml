@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WESHARE</string>
+
+    <string-array name="currencySymbols">
+        <item>INR-(₹)</item>
+        <item>USD-($)</item>
+        <item>EUR-(€)</item>
+        <item>YEN-(¥)</item>
+    </string-array>
+</resources>
